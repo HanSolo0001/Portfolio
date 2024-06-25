@@ -69,7 +69,13 @@ body {
 .welcome-subtitle {
     font-style: italic;
     text-shadow: 1px 1px 3px #eef2f5;
+    font-size: 2rem;
+}
+
+.welcome-text {
     font-size: 1.5rem;
+    max-width: 80%;
+    margin: 3em auto;
 }
 
 #work {
